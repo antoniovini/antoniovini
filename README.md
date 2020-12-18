@@ -1,9 +1,9 @@
 # Antônio Vinicius 🖖
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/antoniovini)](https://github.com/antoniovini)
-<!-- [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/BeatrizOliveira250)](https://gitlab.com/BeatrizOliveira250) -->
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/antoniovini)](https://gitlab.com/antoniovini)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniovini/)](https://www.linkedin.com/in/antoniovini/)
-<!-- [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira) -->
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/175220/antonio-vinicius)](https://pt.stackoverflow.com/users/175220/antonio-vinicius)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniovinicius1801@gmail.com)](mailto:antoniovinicius1801@gmail.com)
 
 
@@ -12,7 +12,6 @@ Meu nome é Vinicius, sou estudante de Ciência e Tecnologia e apaixonado por de
 - 📌 Líder Técnico da **Lorbytech**.
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
 - 📚 Estudying Deep Learning, OpenCV and Big Data
-
 
 ---
 
