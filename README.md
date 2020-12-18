@@ -32,8 +32,8 @@ Meu nome é Vinicius, sou estudante de Ciência e Tecnologia e apaixonado por de
   ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
-  <!-- ![Angular](https://img.shields.io/badge/-Angular-EE1717?style=flat-square&logo=angular&logoColor=white) -->
   ![Firebase](https://img.shields.io/badge/-Firebase-F6C600?style=flat-square&logo=firebase&logoColor=white)
+  <!-- ![Angular](https://img.shields.io/badge/-Angular-EE1717?style=flat-square&logo=angular&logoColor=white) -->
   <!-- ![Ionic](https://img.shields.io/badge/-Ionic-4BA6DA?style=flat-square&logo=ionic&logoColor=white) -->
 </details>
 
