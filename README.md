@@ -9,7 +9,7 @@
 
 Meu nome é Vinicius, sou estudante de Ciência e Tecnologia e apaixonado por desenvolvimento.
 
-- 📌 Líder Técnico da **[@Otontech](https://github.com/otontech)**.
+- 📌 Analista de Desenvolvimento de Sistemas.
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
 - 📚 Estudying Deep Learning, OpenCV and Big Data
 
